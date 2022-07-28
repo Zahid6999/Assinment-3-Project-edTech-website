@@ -1,0 +1,57 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+/* slider section */
+.slider-section{
+    margin-top: 66px;
+    margin-bottom: 130px;
+}
+
+.filter{
+    filter: brightness(60%);
+}
+/* ============Main sectin start========== */
+
+
+/* courses section  */
+
+.Ccard{
+    margin-top: 50px;
+}
+.color{
+    background-color: #E8E8E8;
+    
+}
+
+/* review section */
+.top-heigth{
+    margin-top: 130px;
+    margin-bottom: 130px;
+}
+.bg-Color{
+    background: #F4FAFD;
+    border-radius: 5px;
+}
+.text-size{
+    font-size: 16px;
+    color: #777777;
+    line-height: 30px;
+
+}
+
+/* join section start */
+.bg-color{
+    background: #289BDE;
+    height: 300px;
+}
+
+.btn-text{
+    color: #289BDE;
+}
+
+.text-join{
+    font-size: 14px;
+    color: whitesmoke;
+    line-height: 30px;
+}
