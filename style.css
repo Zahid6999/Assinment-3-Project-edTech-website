@@ -55,3 +55,15 @@ body{
     color: whitesmoke;
     line-height: 30px;
 }
+
+
+/* feedback section */
+.margin-bottom{
+    margin-bottom: 130px;
+}
+
+/* Accoridion-section0*/
+.Accoridion-item{
+    margin-left: 25%;
+    margin-top: 50px;
+}
