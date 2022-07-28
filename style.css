@@ -67,3 +67,28 @@ body{
     margin-left: 25%;
     margin-top: 50px;
 }
+
+/* Footer section */
+.footer-width{
+    height: 420px;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.footer-content{
+    padding-top: 120px;
+}
+.socials{
+    list-style: none;
+    font-size: 25px;
+}
+.socials a{
+    text-decoration: none;
+    color: white;
+}
+.socials a i{
+    transition: color .4s ease;
+}
+.socials a:hover i{
+    color: chartreuse;
+}
